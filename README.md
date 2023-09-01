@@ -36,7 +36,8 @@ Ensure the solution is secure, efficient, and user-friendly. Test the solution t
 
 ***LIBRARIES NEEDED:***
 
-*Python
+*Python*
+
 *GIT*
 
 *Pandas*
