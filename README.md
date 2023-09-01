@@ -10,7 +10,8 @@
 
 ![Streamlit outlook](https://github.com/Viswanathan25/Phonepe_Pulse_Data_Visualization/assets/131848906/85762a24-907a-4a73-a2e1-7f9c658bbab2)
 
-*1. Data extraction:*
+**1. Data extraction:**
+
 Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable format such as CSV or JSON.
 
 *2. Data transformation:*
